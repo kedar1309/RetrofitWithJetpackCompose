@@ -36,6 +36,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             RetrofitJetpackComposeTheme {
+
                /* Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     /*Greeting(
                         name = "Android",
